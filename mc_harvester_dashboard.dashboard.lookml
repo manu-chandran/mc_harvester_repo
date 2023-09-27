@@ -5,8 +5,8 @@
   tile_size: 100
 
   elements:
-  - name: add_a_unique_name_1695822014
-    title: Untitled Visualization
+  - name: MC_Harvester_Dashboard_Visualization
+    title: Harvester Visualization Dashboard
     model: mc_model_harvester
     explore: dept
     type: looker_column
